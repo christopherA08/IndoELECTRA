@@ -19,7 +19,7 @@ According to the [author's description](https://ai.googleblog.com/2020/03/more-e
 All models are trained using same tokenizer as BERT, BERT Tokenizer. 
 Vocabulary file are built using WordPiece Library
 
-## Models
+## IndoELECTRA Pre-Trained Models
 * For Tensorflow model can be downloaded [here](https://drive.google.com/file/d/1ErnmJf5Vqy9q1gWjEyjJwhj9JL3jU1nV/view?usp=sharing)
 * For PyTorch model can be downloaded [here](https://huggingface.co/ChristopherA08/IndoELECTRA) or directly use from Transformers library provided by [huggingface](https://huggingface.co/models)
 
